@@ -1,2 +1,3 @@
 # Portfoliosivu
-Briefly updating when having time
+Keskeneräinen.
+Päivittelen kun aikaa löytyy
